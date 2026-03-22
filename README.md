@@ -114,10 +114,6 @@ I focus on building <b>scalable, efficient and user-centered solutions</b>, comb
 
 - Analysis, design and development of institutional systems  
 - Development of user-centered interfaces (UI/UX)  
-- Work on:
-  - License systems  
-  - Accounting systems  
-  - Expediente management  
 - Process modeling and digitalization  
 - REST API integration  
 - Data validation and continuous improvement  
