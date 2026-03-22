@@ -85,7 +85,6 @@ I focus on building <b>scalable, efficient and user-centered solutions</b>, comb
         Experience working on real institutional environments with complex processes.
       </p>
       <ul>
-        <li>Expediente systems</li>
         <li>Administrative workflows</li>
         <li>REST API integration</li>
         <li>Continuous improvement</li>
