@@ -13,7 +13,7 @@ Developer Frontend at Honorable Legislatura de Tucumán
 ## About Me
 
 <p align="center">
-I'm a <b>Full Stack Developer specialized in Frontend</b>, with strong experience in <b>systems analysis</b>.  
+I'm a <b>Full Stack Developer specialized in Frontend</b>, with experience in <b>systems analysis</b>.  
 </p>
 
 <p align="center">
